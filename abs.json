@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "title": "iPhone 12, 64GB Ч как новый",
+    "description": "ќригинальный Apple iPhone 12, 64 √Ѕ. ÷вет Ч чЄрный. ќтличное состо€ние, без сколов и трещин.",
+    "price": "44990",
+    "address": "ћосква, ул. ѕушкина, д. 10",
+    "url": "https://market.yandex.ru/category/smartfony-apple-iphone-12-64-gb",
+    "images": [
+      "https://i0.wp.com/www.renderhub.com/rever-art/apple-iphone-12-black/apple-iphone-12-black-16.jpg?ssl=1"
+    ],
+    "region": "ru-moscow",
+    "category": "iphone-12",
+    "config": {
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "storage": "64 GB",
+      "color": "Black"
+    }
+  }
+]
