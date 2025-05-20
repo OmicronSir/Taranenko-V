@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "iPhone 12, 64GB — êàê íîâûé",
+    "title": "iPhone 12, 64GB — как новый",
     "description": "Оригинальный Apple iPhone 12, 64 ГБ. Цвет — чёрный. Отличное состояние, без сколов и трещин.",
     "price": "44990",
     "address": "Москва, ул. Пушкина, д. 10",
@@ -9,13 +9,69 @@
     "images": [
       "https://i0.wp.com/www.renderhub.com/rever-art/apple-iphone-12-black/apple-iphone-12-black-16.jpg?ssl=1"
     ],
-    "region": "ru-moscow",
-    "category": "iphone-12",
+    "region": "1",
+    "category": "phone",
     "config": {
       "brand": "Apple",
       "model": "iPhone 12",
       "storage": "64 GB",
       "color": "Black"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Ноутбук Dell XPS 13, 16GB RAM",
+    "description": "Dell XPS 13, процессор Intel i7, 16 ГБ ОЗУ, 512 ГБ SSD.",
+    "price": "85000",
+    "address": "Санкт-Петербург, Невский пр., д. 20",
+    "url": "https://example.com/ad/2",
+    "images": [
+      "https://example.com/img/dell_xps_13.jpg"
+    ],
+    "region": "2",
+    "category": "laptop",
+    "config": {
+      "brand": "Dell",
+      "model": "XPS 13",
+      "ram": "16 GB",
+      "storage": "512 GB SSD"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Телевизор Samsung 55\" 4K",
+    "description": "Samsung UE55TU7100U — отличный 55-дюймовый 4K Smart TV.",
+    "price": "40000",
+    "address": "Новосибирск, Красный пр., д. 45",
+    "url": "https://example.com/ad/3",
+    "images": [
+      "https://example.com/img/samsung_tv.jpg"
+    ],
+    "region": "3",
+    "category": "tv",
+    "config": {
+      "brand": "Samsung",
+      "size": "55 inch",
+      "resolution": "4K"
+    }
+  },
+  {
+    "id": "4",
+    "title": "iPhone 12 Pro, 128GB",
+    "description": "Apple iPhone 12 Pro, 128 ГБ, графитовый. Практически новый.",
+    "price": "55000",
+    "address": "Краснодар, ул. Ленина, д. 5",
+    "url": "https://example.com/ad/4",
+    "images": [
+      "https://example.com/img/iphone12pro.jpg"
+    ],
+    "region": "4",
+    "category": "phone",
+    "config": {
+      "brand": "Apple",
+      "model": "iPhone 12 Pro",
+      "storage": "128 GB",
+      "color": "Graphite"
     }
   }
 ]
