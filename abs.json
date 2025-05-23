@@ -21,7 +21,7 @@
   {
     "id": "2",
     "title": "Ноутбук Dell XPS 13, 16GB RAM",
-    "description": "Dell XPS 13, процессор Intel i7, 16 ГБ ОЗУ, 512 ГБ SSD.",
+    "description": "Dell XPS 13, Intel i7, 16 ГБ ОЗУ, 512 ГБ SSD.",
     "price": "85000",
     "address": "Санкт-Петербург, Невский пр., д. 20",
     "url": "https://example.com/ad/2",
@@ -40,7 +40,7 @@
   {
     "id": "3",
     "title": "Телевизор Samsung 55\" 4K",
-    "description": "Samsung UE55TU7100U — отличный 55-дюймовый 4K Smart TV.",
+    "description": "Samsung UE55TU7100U — 55-дюймовый 4K Smart TV.",
     "price": "40000",
     "address": "Новосибирск, Красный пр., д. 45",
     "url": "https://example.com/ad/3",
@@ -53,25 +53,6 @@
       "brand": "Samsung",
       "size": "55 inch",
       "resolution": "4K"
-    }
-  },
-  {
-    "id": "4",
-    "title": "iPhone 12 Pro, 128GB",
-    "description": "Apple iPhone 12 Pro, 128 ГБ, графитовый. Практически новый.",
-    "price": "55000",
-    "address": "Краснодар, ул. Ленина, д. 5",
-    "url": "https://example.com/ad/4",
-    "images": [
-      "https://example.com/img/iphone12pro.jpg"
-    ],
-    "region": "4",
-    "category": "phone",
-    "config": {
-      "brand": "Apple",
-      "model": "iPhone 12 Pro",
-      "storage": "128 GB",
-      "color": "Graphite"
     }
   }
 ]
